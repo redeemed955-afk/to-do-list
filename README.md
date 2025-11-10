@@ -1,2 +1,3 @@
 # to-do-list
 This is my first project on Git hub, its a to-do-list
+I'm a beginner so don't harsh my work 😊👌😅
